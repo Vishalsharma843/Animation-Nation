@@ -56,11 +56,11 @@ let cards = [
     githubLink: "https://github.com/DaywisonSilva",
   },
   {
-    artName: "Stephan Animation",
-    pageLink: "./Art/stephanduval_animatron/index.html",
-    iamgeLink: "./Art/stephanduval_animatron/stephanduval_animatron.gif",
-    author: "Stephan DuVal",
-    githubLink: "https://github.com/stephanduval",
+    artName: "Vishal Animation",
+    pageLink: "./Art/Vishal/index.html",
+    iamgeLink: "./Art/vishal_animatron/vishal_animatron.gif",
+    author: "Vishal Sharma",
+    githubLink: "https://github.com/Vishalsharma843",
   },
   {
     artName: "DayToNight",
